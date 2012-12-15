@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("PageantSharp35")]
 [assembly: AssemblyDescription(".NET 3.5 Library for creating a Putty key agents")]
 #else
-[assembly: AssemblyTitle("PageantSharp")]
-[assembly: AssemblyProduct("PageantSharp")]
-[assembly: AssemblyDescription(".NET 4.0 Library for creating a Putty key agents")]
+[assembly: AssemblyTitle("SshAgentLib")]
+[assembly: AssemblyProduct("SshAgentLib")]
+[assembly: AssemblyDescription("SSH Agent .NET 4.0 Library")]
 #endif // DOT_NET_35
 
 [assembly: AssemblyConfiguration("")]
@@ -38,5 +38,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.2.0.0")]
-[assembly: AssemblyFileVersion("0.2.0.0")]
+[assembly: AssemblyVersion("0.3.0.0")]
+[assembly: AssemblyFileVersion("0.3.0.0")]
